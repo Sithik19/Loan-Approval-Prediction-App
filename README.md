@@ -11,7 +11,7 @@ is trained and evaluated using standard metrics like Accuracy, Precision, Recall
 interface that allows users to input their loan-related information and instantly
 receive an approval prediction. 
 
-Deployed via a cloud-based backend, the loan prediction system supports realtime processing and is designed to scale for high-demand environments. Containerization with Docker and orchestration using Kubernetes ensure
+Deployed via a cloud-based backend, the loan prediction system supports real time processing and is designed to scale for high-demand environments. Containerization with Docker and orchestration using Kubernetes ensure
 reliability and scalability, while MLOps practices automate monitoring and model
 retraining to adapt to evolving borrower behavior. This solution bridges the gap
 between intelligent predictive modeling and end-user accessibility, offering a
